@@ -9,7 +9,7 @@ Attraverso i primi 5 parametri all'interno di config.py è possibile scegliere:
 -Sottocartella dove inserire il file(se la cartella non è stata creata viene automaticamente generata)
 
 Il programma Python è stato convertito in .exe attraverso Pyinstaller.
-E' possibile scaricare la versione v1.0 da    https://drive.google.com/file/d/1yAxNhRkOfnlcnHlKkRT1Ua3TSFV2oVaf/view?usp=drive_link
+E' possibile scaricare la versione v1.0 direttamente da https://drive.usercontent.google.com/download?id=1yAxNhRkOfnlcnHlKkRT1Ua3TSFV2oVaf&export=download&authuser=0&confirm=t&uuid=ed62073e-e9f5-47cf-8e96-42ca14d06b8b&at=APZUnTU06lqulCIIF2mraf2O81KX%3A1716970574828
 
 
 Per aprirlo basta aprire il file "CBOR_MAT_earthquakedata.exe"
@@ -29,7 +29,7 @@ Through the first 5 parameters within config.py it is possible to choose:
 -Subfolder where to put the file(if the folder has not been created it is automatically generated)
 
 Python program was converted to .exe through Pyinstaller.
-It is possible to download the v1.0 version from   https://drive.google.com/file/d/1yAxNhRkOfnlcnHlKkRT1Ua3TSFV2oVaf/view?usp=drive_link
+It is possible to download the v1.0 version from https://drive.usercontent.google.com/download?id=1yAxNhRkOfnlcnHlKkRT1Ua3TSFV2oVaf&export=download&authuser=0&confirm=t&uuid=ed62073e-e9f5-47cf-8e96-42ca14d06b8b&at=APZUnTU06lqulCIIF2mraf2O81KX%3A1716970574828
 
 you can open it using "CBOR_MAT_earthquakedata.exe" inside the folder
 
